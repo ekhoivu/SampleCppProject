@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: p, Configuration: Debug Win32 ------
+1>LineManager.cpp
+1>p.vcxproj -> D:\OneDrive - Seneca\3rd Semester - 2022 Summer\OOP 345 NAA\project\p\Debug\p.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

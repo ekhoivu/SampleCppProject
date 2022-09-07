@@ -1,0 +1,17 @@
+Khoi Vu
+124611203
+kvu8@myseneca.ca
+August 2nd, 2022
+OOP 345 NAA
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+***
+
+     Overall, I felt that it was a very challenging project. A fitting end to OOP 345, before the final. Milestone 1 and 2 were more straightforward and aligned with the workshops we have done so far. I did not encounter many problems and each were doable in one sitting. Milestone 3 was on another level and it took a couple of days, with another couple more for touch up and fine tuning. Below are my key takeaways for this project. 
+
+     There are three things I like about this project. First, the nature and purpose of this project is very interesting and practical. Second, it was very challenging. It was a very good brain exercise, thinking of ways to solve the problems, and there was personal satisfaction upon completing each one. Third, it touches on a lot of key concepts we cover in this course so it is a very good reminder and practice. I also particularly enjoy the open-endedness of the throw error instructions in the LineManager constructor. After the project is done, I went back to really think about what could go wrong. I managed to think of a few from playing around with the AssemblyLine.txt to arrive at unexpected scenarios and see how the program handles it. For example, I tried deleting the file blank, making two possible first stations, no end station, and so on. That was fun and informative! It pushes me to think about covering all the possible holes and crash-safe my program.
+
+     On the other hand, I did not like the fact that Milestone 3 was very hard to debug. Stepping through it initially proved time consuming with very little return. To wrap my head around it, I had to draw out the stations and the orders on paper and on Excel. It really helped to visualize what is being done to the order at each step and based on that, I could go back to coding.
+
+     In the end, I enjoyed it. I was glad that we have a few weeks to do it and I took my time going through the milestones early. It would have been a completely different story under time pressure.    
+
